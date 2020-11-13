@@ -6,11 +6,11 @@
 # Guide to get your own credentials with your spotify account, (it works with free accounts as well).
 
 
-## Before you can get the token to work with the spotify API you need to get your own credentials, client_id and client_secret, which is why you have to log in here.
+Before you can get the token to work with the spotify API you need to get your own credentials, client_id and client_secret, which is why you have to log in here.
 
-```` https://developer.spotify.com/dashboard/login ````
+ [login](https://developer.spotify.com/dashboard/login) 
 
-## Once there you will create a "New App" so you can have your own credentials and use them in this code in order to request the token from Spotify API.
+Once there you will create a "New App" so you can have your own credentials and use them in this code in order to request the token from Spotify API.
 
 Once you have your credentials you will copy and paste them in server.js exactly in this part below.
 
@@ -33,7 +33,7 @@ Once you have your credentials you will copy and paste them in server.js exactly
 
 
 # Spotify Authorization Guide used in this code.
-```` https://developer.spotify.com/documentation/general/guides/authorization-guide/ ````
+[Authorization Guide](https://developer.spotify.com/documentation/general/guides/authorization-guide/)
 
 I have used this guide with the title: [Client Credentials Flow]
 
